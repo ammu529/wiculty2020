@@ -1,11 +1,25 @@
+<<<<<<< HEAD
  Public class Login
 {
    public static void main(string args[])
  {
        int i;
-       for (i=0;i<=30;i++)
+       for (i=0;i<=25;i++)
 {
       System.out.println("Number: " +i);
 }
 }
 } 
+=======
+Public class login
+{
+   Public static void main (string args[])
+{     
+          int i;
+        for (i=0; i<=25; i++)
+{
+       System.out.println( "Numbers: " + i)
+}
+}
+}
+>>>>>>> Dev-124
